@@ -1,0 +1,6 @@
+[package]
+name = "rusty-chat-be"
+version = "0.1.0"
+authors = ["Steven Dandan"]
+
+[dependencies]

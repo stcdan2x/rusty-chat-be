@@ -1,0 +1,9 @@
+language: rust
+rust:
+    - nightly
+
+before_script:
+    - cd rusty-chat-be/ 
+
+script:
+    - cargo build
